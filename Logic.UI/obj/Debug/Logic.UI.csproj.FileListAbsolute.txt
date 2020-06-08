@@ -1,0 +1,27 @@
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\Labor 3\BookManager008\Logic.UI\bin\Debug\Logic.UI.dll
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\Labor 3\BookManager008\Logic.UI\bin\Debug\Logic.UI.pdb
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\Labor 3\BookManager008\Logic.UI\obj\Debug\Logic.UI.csproj.CoreCompileInputs.cache
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\Labor 3\BookManager008\Logic.UI\obj\Debug\Logic.UI.dll
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\Labor 3\BookManager008\Logic.UI\obj\Debug\Logic.UI.pdb
+\\filestud01\profiles\FIBO6745\Desktop\dsdfsdf\Neuer Ordner\BookManager008\Logic.UI\bin\Debug\Logic.UI.dll
+\\filestud01\profiles\FIBO6745\Desktop\dsdfsdf\Neuer Ordner\BookManager008\Logic.UI\bin\Debug\Logic.UI.pdb
+\\filestud01\profiles\FIBO6745\Desktop\dsdfsdf\Neuer Ordner\BookManager008\Logic.UI\obj\Debug\Logic.UI.csproj.CoreCompileInputs.cache
+\\filestud01\profiles\FIBO6745\Desktop\dsdfsdf\Neuer Ordner\BookManager008\Logic.UI\obj\Debug\Logic.UI.dll
+\\filestud01\profiles\FIBO6745\Desktop\dsdfsdf\Neuer Ordner\BookManager008\Logic.UI\obj\Debug\Logic.UI.pdb
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\Labor 3\BookManager008\Logic.UI\obj\Debug\Logic.UI.csprojAssemblyReference.cache
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\Labor 3\BookManager008\Logic.UI\bin\Debug\Business.Model.dll
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\Labor 3\BookManager008\Logic.UI\bin\Debug\Business.Model.pdb
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\Labor 3\BookManager008\Logic.UI\obj\Debug\Logic.UI.csproj.CopyComplete
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\Labor 3\BookManager008\Logic.UI\bin\Debug\Service.ServiceBus.dll
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\Labor 3\BookManager008\Logic.UI\bin\Debug\Service.ServiceBus.pdb
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\BookManager008\Logic.UI\obj\Debug\Logic.UI.dll
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\BookManager008\Logic.UI\obj\Debug\Logic.UI.pdb
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\BookManager008\Logic.UI\bin\Debug\Logic.UI.dll
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\BookManager008\Logic.UI\bin\Debug\Logic.UI.pdb
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\BookManager008\Logic.UI\bin\Debug\Business.Model.dll
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\BookManager008\Logic.UI\bin\Debug\Service.ServiceBus.dll
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\BookManager008\Logic.UI\bin\Debug\Business.Model.pdb
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\BookManager008\Logic.UI\bin\Debug\Service.ServiceBus.pdb
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\BookManager008\Logic.UI\obj\Debug\Logic.UI.csprojAssemblyReference.cache
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\BookManager008\Logic.UI\obj\Debug\Logic.UI.csproj.CoreCompileInputs.cache
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\BookManager008\Logic.UI\obj\Debug\Logic.UI.csproj.CopyComplete

@@ -1,0 +1,12 @@
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\Labor 3\BookManager008\Service.ServiceBus\bin\Debug\Service.ServiceBus.dll
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\Labor 3\BookManager008\Service.ServiceBus\bin\Debug\Service.ServiceBus.pdb
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\Labor 3\BookManager008\Service.ServiceBus\obj\Debug\Service.ServiceBus.csprojAssemblyReference.cache
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\Labor 3\BookManager008\Service.ServiceBus\obj\Debug\Service.ServiceBus.csproj.CoreCompileInputs.cache
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\Labor 3\BookManager008\Service.ServiceBus\obj\Debug\Service.ServiceBus.dll
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\Labor 3\BookManager008\Service.ServiceBus\obj\Debug\Service.ServiceBus.pdb
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\BookManager008\Service.ServiceBus\obj\Debug\Service.ServiceBus.dll
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\BookManager008\Service.ServiceBus\obj\Debug\Service.ServiceBus.pdb
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\BookManager008\Service.ServiceBus\bin\Debug\Service.ServiceBus.dll
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\BookManager008\Service.ServiceBus\bin\Debug\Service.ServiceBus.pdb
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\BookManager008\Service.ServiceBus\obj\Debug\Service.ServiceBus.csprojAssemblyReference.cache
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\BookManager008\Service.ServiceBus\obj\Debug\Service.ServiceBus.csproj.CoreCompileInputs.cache

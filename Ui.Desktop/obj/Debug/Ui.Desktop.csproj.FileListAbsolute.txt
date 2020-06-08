@@ -1,0 +1,79 @@
+\\filestud01\profiles\FIBO6745\Desktop\BookManager008\Ui.Desktop\bin\Debug\Ui.Desktop.exe.config
+\\filestud01\profiles\FIBO6745\Desktop\BookManager008\Ui.Desktop\bin\Debug\Ui.Desktop.exe
+\\filestud01\profiles\FIBO6745\Desktop\BookManager008\Ui.Desktop\bin\Debug\Ui.Desktop.pdb
+\\filestud01\profiles\FIBO6745\Desktop\BookManager008\Ui.Desktop\obj\Debug\Ui.Desktop.csprojResolveAssemblyReference.cache
+\\filestud01\profiles\FIBO6745\Desktop\BookManager008\Ui.Desktop\obj\Debug\MainWindow.g.cs
+\\filestud01\profiles\FIBO6745\Desktop\BookManager008\Ui.Desktop\obj\Debug\App.g.cs
+\\filestud01\profiles\FIBO6745\Desktop\BookManager008\Ui.Desktop\obj\Debug\Ui.Desktop_MarkupCompile.cache
+\\filestud01\profiles\FIBO6745\Desktop\BookManager008\Ui.Desktop\obj\Debug\Ui.Desktop_MarkupCompile.lref
+\\filestud01\profiles\FIBO6745\Desktop\BookManager008\Ui.Desktop\obj\Debug\MainWindow.baml
+\\filestud01\profiles\FIBO6745\Desktop\BookManager008\Ui.Desktop\obj\Debug\Ui.Desktop.g.resources
+\\filestud01\profiles\FIBO6745\Desktop\BookManager008\Ui.Desktop\obj\Debug\De.HSFlensburg.Bookmanager008.Business.Model.Ui.Desktop.Properties.Resources.resources
+\\filestud01\profiles\FIBO6745\Desktop\BookManager008\Ui.Desktop\obj\Debug\Ui.Desktop.csproj.GenerateResource.Cache
+\\filestud01\profiles\FIBO6745\Desktop\BookManager008\Ui.Desktop\obj\Debug\Ui.Desktop.csproj.CoreCompileInputs.cache
+\\filestud01\profiles\FIBO6745\Desktop\BookManager008\Ui.Desktop\obj\Debug\Ui.Desktop.exe
+\\filestud01\profiles\FIBO6745\Desktop\BookManager008\Ui.Desktop\obj\Debug\Ui.Desktop.pdb
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\Labor 3\BookManager008\Ui.Desktop\bin\Debug\Ui.Desktop.exe.config
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\Labor 3\BookManager008\Ui.Desktop\bin\Debug\Ui.Desktop.exe
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\Labor 3\BookManager008\Ui.Desktop\bin\Debug\Ui.Desktop.pdb
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\Labor 3\BookManager008\Ui.Desktop\obj\Debug\Ui.Desktop.csprojAssemblyReference.cache
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\Labor 3\BookManager008\Ui.Desktop\obj\Debug\MainWindow.g.cs
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\Labor 3\BookManager008\Ui.Desktop\obj\Debug\App.g.cs
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\Labor 3\BookManager008\Ui.Desktop\obj\Debug\Ui.Desktop_MarkupCompile.cache
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\Labor 3\BookManager008\Ui.Desktop\obj\Debug\MainWindow.baml
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\Labor 3\BookManager008\Ui.Desktop\obj\Debug\Ui.Desktop.g.resources
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\Labor 3\BookManager008\Ui.Desktop\obj\Debug\Ui.Desktop.csproj.GenerateResource.cache
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\Labor 3\BookManager008\Ui.Desktop\obj\Debug\Ui.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\Labor 3\BookManager008\Ui.Desktop\obj\Debug\Ui.Desktop.exe
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\Labor 3\BookManager008\Ui.Desktop\obj\Debug\Ui.Desktop.pdb
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\Labor 3\BookManager008\Ui.Desktop\bin\Debug\Business.Model.dll
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\Labor 3\BookManager008\Ui.Desktop\bin\Debug\Business.Model.pdb
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\Labor 3\BookManager008\Ui.Desktop\obj\Debug\Ui.Desktop.csproj.CopyComplete
+\\filestud01\profiles\FIBO6745\Desktop\dsdfsdf\Neuer Ordner\BookManager008\Ui.Desktop\bin\Debug\Ui.Desktop.exe.config
+\\filestud01\profiles\FIBO6745\Desktop\dsdfsdf\Neuer Ordner\BookManager008\Ui.Desktop\bin\Debug\Ui.Desktop.exe
+\\filestud01\profiles\FIBO6745\Desktop\dsdfsdf\Neuer Ordner\BookManager008\Ui.Desktop\bin\Debug\Ui.Desktop.pdb
+\\filestud01\profiles\FIBO6745\Desktop\dsdfsdf\Neuer Ordner\BookManager008\Ui.Desktop\bin\Debug\Business.Model.dll
+\\filestud01\profiles\FIBO6745\Desktop\dsdfsdf\Neuer Ordner\BookManager008\Ui.Desktop\bin\Debug\Business.Model.pdb
+\\filestud01\profiles\FIBO6745\Desktop\dsdfsdf\Neuer Ordner\BookManager008\Ui.Desktop\obj\Debug\Ui.Desktop.csprojResolveAssemblyReference.cache
+\\filestud01\profiles\FIBO6745\Desktop\dsdfsdf\Neuer Ordner\BookManager008\Ui.Desktop\obj\Debug\MainWindow.baml
+\\filestud01\profiles\FIBO6745\Desktop\dsdfsdf\Neuer Ordner\BookManager008\Ui.Desktop\obj\Debug\MainWindow.g.cs
+\\filestud01\profiles\FIBO6745\Desktop\dsdfsdf\Neuer Ordner\BookManager008\Ui.Desktop\obj\Debug\App.g.cs
+\\filestud01\profiles\FIBO6745\Desktop\dsdfsdf\Neuer Ordner\BookManager008\Ui.Desktop\obj\Debug\Ui.Desktop_MarkupCompile.cache
+\\filestud01\profiles\FIBO6745\Desktop\dsdfsdf\Neuer Ordner\BookManager008\Ui.Desktop\obj\Debug\Ui.Desktop.g.resources
+\\filestud01\profiles\FIBO6745\Desktop\dsdfsdf\Neuer Ordner\BookManager008\Ui.Desktop\obj\Debug\De.HSFlensburg.Bookmanager008.Business.Model.Ui.Desktop.Properties.Resources.resources
+\\filestud01\profiles\FIBO6745\Desktop\dsdfsdf\Neuer Ordner\BookManager008\Ui.Desktop\obj\Debug\Ui.Desktop.csproj.GenerateResource.Cache
+\\filestud01\profiles\FIBO6745\Desktop\dsdfsdf\Neuer Ordner\BookManager008\Ui.Desktop\obj\Debug\Ui.Desktop.csproj.CoreCompileInputs.cache
+\\filestud01\profiles\FIBO6745\Desktop\dsdfsdf\Neuer Ordner\BookManager008\Ui.Desktop\obj\Debug\Ui.Desktop.exe
+\\filestud01\profiles\FIBO6745\Desktop\dsdfsdf\Neuer Ordner\BookManager008\Ui.Desktop\obj\Debug\Ui.Desktop.pdb
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\Labor 3\BookManager008\Ui.Desktop\bin\Debug\Logic.UI.dll
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\Labor 3\BookManager008\Ui.Desktop\bin\Debug\Logic.UI.pdb
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\Labor 3\BookManager008\Ui.Desktop\obj\Debug\App.baml
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\Labor 3\BookManager008\Ui.Desktop\obj\Debug\NewBookWindow.g.cs
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\Labor 3\BookManager008\Ui.Desktop\obj\Debug\NewBookWindow.baml
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\Labor 3\BookManager008\Ui.Desktop\bin\Debug\Service.ServiceBus.dll
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\Labor 3\BookManager008\Ui.Desktop\bin\Debug\Service.ServiceBus.pdb
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\Labor 3\BookManager008\Ui.Desktop\obj\Debug\De.HSFlensburg.Bookmanager008.Ui.Desktop.Properties.Resources.resources
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\BookManager008\Ui.Desktop\bin\Debug\Ui.Desktop.exe.config
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\BookManager008\Ui.Desktop\bin\Debug\Ui.Desktop.exe
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\BookManager008\Ui.Desktop\bin\Debug\Ui.Desktop.pdb
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\BookManager008\Ui.Desktop\bin\Debug\Logic.UI.dll
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\BookManager008\Ui.Desktop\bin\Debug\Service.ServiceBus.dll
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\BookManager008\Ui.Desktop\bin\Debug\Business.Model.dll
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\BookManager008\Ui.Desktop\bin\Debug\Logic.UI.pdb
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\BookManager008\Ui.Desktop\bin\Debug\Service.ServiceBus.pdb
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\BookManager008\Ui.Desktop\bin\Debug\Business.Model.pdb
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\BookManager008\Ui.Desktop\obj\Debug\Ui.Desktop.csprojAssemblyReference.cache
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\BookManager008\Ui.Desktop\obj\Debug\MainWindow.baml
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\BookManager008\Ui.Desktop\obj\Debug\NewBookWindow.baml
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\BookManager008\Ui.Desktop\obj\Debug\App.baml
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\BookManager008\Ui.Desktop\obj\Debug\MainWindow.g.cs
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\BookManager008\Ui.Desktop\obj\Debug\NewBookWindow.g.cs
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\BookManager008\Ui.Desktop\obj\Debug\App.g.cs
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\BookManager008\Ui.Desktop\obj\Debug\Ui.Desktop_MarkupCompile.cache
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\BookManager008\Ui.Desktop\obj\Debug\Ui.Desktop.g.resources
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\BookManager008\Ui.Desktop\obj\Debug\De.HSFlensburg.Bookmanager008.Ui.Desktop.Properties.Resources.resources
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\BookManager008\Ui.Desktop\obj\Debug\Ui.Desktop.csproj.GenerateResource.cache
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\BookManager008\Ui.Desktop\obj\Debug\Ui.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\BookManager008\Ui.Desktop\obj\Debug\Ui.Desktop.csproj.CopyComplete
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\BookManager008\Ui.Desktop\obj\Debug\Ui.Desktop.exe
+C:\Users\finnb\Documents\Medieninformatik\Anwendungsprogrammierung\BookManager008\Ui.Desktop\obj\Debug\Ui.Desktop.pdb
